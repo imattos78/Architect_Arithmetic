@@ -1,0 +1,7 @@
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\bin\Debug\Architect_Arithmetic.exe.config
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\bin\Debug\Architect_Arithmetic.exe
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\bin\Debug\Architect_Arithmetic.pdb
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.exe
+C:\Users\Nacho\source\repos\Architect_Arithmetic\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.pdb
