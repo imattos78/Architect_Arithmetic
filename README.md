@@ -5,3 +5,4 @@ Architects have big ideas – but big ideas can be expensive. How expensive? Dep
 In this program developed in .Net, I have calculated the construction costs based on the plans shown below ...
 
 ![mosque](greatmosque-complete.svg)
+![Taj](tajmahal-complete.svg)
