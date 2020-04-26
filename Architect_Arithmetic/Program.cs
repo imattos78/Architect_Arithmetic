@@ -40,18 +40,18 @@ namespace Architect_Arithmetic
             double meccaMaterial = Math.Round((meccaArea * 180), 2);
 
             //User Selection
-            Console.Write("What monument would you like to work with?: ");
+            Console.Write("What monument would you like to work with? 1-Teotihuacan, 2-Taj Mahal, 3-Mecca: ");
             string monument = Console.ReadLine();
-            if (monument == "Teotihuacan")
+            if (monument == "1")
             {
                 Console.WriteLine($"The total area of the project is {totalAreas} m2 and the cost of materials: {totalMaterial} pesos");
             }
-            else if (monument == "Taj Mahal")
+            else if (monument == "2")
             {
                 Console.WriteLine($"The total area of the project is {tajArea} m2 and the cost of materials: {tajMaterial} pesos");
 
             }
-            else if (monument == "Mecca")
+            else if (monument == "3")
             {
                 Console.WriteLine($"The total area of the project is {meccaArea} m2 and the cost of materials: {meccaMaterial} pesos");
 
