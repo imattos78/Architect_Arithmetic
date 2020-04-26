@@ -3,3 +3,5 @@ C # program to calculate materials construction costs based on the dimensions in
 Architects have big ideas – but big ideas can be expensive. How expensive? Depends on the size.
 
 In this program developed in .Net, I have calculated the construction costs based on the plans shown below ...
+
+(greatmosque-complete.svg)
